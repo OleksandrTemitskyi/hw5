@@ -1,0 +1,101 @@
+@import url("reset.css");
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.first-line {
+    font-size: 0;
+}
+
+.one, .two, .three {
+    margin-top: 100px;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    outline: 1px solid red;
+    background: yellow
+}
+
+
+.second-line {
+    font-size: 0;
+}
+
+.left-block {
+    display: inline-block;
+    width: 800px;
+}
+
+.four, .five {
+    height: 200px;
+    outline: 1px solid red;
+    background: blue;
+}
+
+.right-block {
+    display: inline-block;
+    width: 400px;
+}
+
+.six, .seven, .eight {
+    height: 133.3px;
+    outline: 1px solid red;
+    background-color: green;
+}
+
+.third-line {
+    font-size: 0;
+}
+
+.nine {
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    outline: 1px solid red;
+    background: gray;
+}
+
+.big-block {
+    display: inline-block;
+    width: 800px;
+    outline: 1px solid red;
+}
+
+.ten {
+    height: 200px;
+    outline: 1px solid red;
+    background: orange;
+}
+
+.eleven{
+    display: inline-block;
+    width: 400px;
+    height: 200px;
+    background: thistle;
+}
+
+.last-block {
+    display: inline-block;
+    width: 400px;
+    
+}
+
+.twelve, .thirteen {
+    height: 100px;
+    outline: 1px solid red;
+    background: firebrick;
+}
+
+
+
+
+
+
+
+
+
+
+
+
